@@ -1,0 +1,44 @@
+2025-04-19 19:29:51,238 - INFO - CSV file loaded successfully!
+2025-04-19 19:30:40,162 - INFO - Removing duplicates
+2025-04-19 19:30:40,165 - INFO - Handling missing values
+2025-04-19 19:30:40,168 - INFO - Ensuring height and weight are in a float format
+2025-04-19 19:30:52,525 - INFO - Converted height from inches to meters.
+2025-04-19 19:30:52,526 - INFO - Converted weight from pounds to kilograms.
+2025-04-19 19:30:52,527 - INFO - Standardized column names to lowercase with underscores.
+2025-04-19 19:30:52,529 - INFO - Dropped columns: ['height', 'weight']
+2025-04-19 19:30:52,530 - INFO - Rounded 'height' to 2 decimal places.
+2025-04-19 19:30:52,530 - INFO - Rounded 'weight' to 2 decimal places.
+2025-04-19 19:32:33,220 - INFO - Transformed CSV file uploaded to Azure successfully.
+2025-04-19 19:32:54,414 - INFO - Retrive the transformed CSV file from Azure
+2025-04-19 19:34:14,746 - INFO - JSON file loaded successfully!
+2025-04-19 19:34:27,575 - INFO - Removing duplicates
+2025-04-19 19:34:27,577 - INFO - Handling missing values
+2025-04-19 19:34:27,580 - INFO - Ensuring height and weight are in a float format
+2025-04-19 19:34:40,025 - INFO - Converted height from inches to meters.
+2025-04-19 19:34:40,027 - INFO - Converted weight from pounds to kilograms.
+2025-04-19 19:34:40,028 - INFO - Standardized column names to lowercase with underscores.
+2025-04-19 19:34:40,029 - INFO - Dropped columns: ['height', 'weight']
+2025-04-19 19:34:40,029 - INFO - Rounded 'height' to 2 decimal places.
+2025-04-19 19:34:40,030 - INFO - Rounded 'weight' to 2 decimal places.
+2025-04-19 19:35:05,514 - INFO - Transformed JSON file uploaded to Azure successfully.
+2025-04-19 19:35:24,442 - INFO - Retrive the transformed JSON file from Azure
+2025-04-19 19:35:34,876 - INFO -  XML file loaded successfully!
+2025-04-19 19:36:29,059 - INFO -  XML file loaded successfully!
+2025-04-19 19:36:37,879 - INFO - Removing duplicates
+2025-04-19 19:36:37,881 - INFO - Handling missing values
+2025-04-19 19:36:37,884 - INFO - Ensuring height and weight are in a float format
+2025-04-19 19:36:47,191 - INFO - Converted height from inches to meters.
+2025-04-19 19:36:47,192 - INFO - Converted weight from pounds to kilograms.
+2025-04-19 19:36:47,193 - INFO - Standardized column names to lowercase with underscores.
+2025-04-19 19:36:47,194 - INFO - Dropped columns: ['height', 'weight']
+2025-04-19 19:36:47,194 - INFO - Rounded 'height' to 2 decimal places.
+2025-04-19 19:36:47,195 - INFO - Rounded 'weight' to 2 decimal places.
+2025-04-19 19:37:00,665 - INFO - Transformed XML file uploaded to Azure successfully.
+2025-04-19 19:37:09,756 - INFO - Retrive the transformed XML file from Azure
+2025-04-19 19:37:44,291 - INFO - CSV file loaded to Azure MySQL database successfully!
+2025-04-19 19:37:46,362 - INFO - JSON file loaded to Azure MySQL database successfully!
+2025-04-19 19:37:48,431 - INFO - XML file loaded to Azure MySQL database successfully!
+2025-04-19 19:38:15,647 - INFO - CSV file retrieved from Azure MySQL database successfully!
+2025-04-19 19:38:27,606 - INFO - JSON file retrieved from Azure MySQL database successfully!
+2025-04-19 19:38:38,524 - INFO - XML file retrieved from Azure MySQL database successfully!
+2025-04-19 19:44:45,921 - INFO - Log file downloaded successfully!
