@@ -8,3 +8,9 @@ Cretaed required database and tables.
 Loaded the transformed files to Azure database using pandas and sqlalchemy.
 Retrived the files from colab notebook as well as from MySQL Workbench.
 Logged the Entire ETL Workflow.
+Technologies used:
+Python
+SQL
+Azure
+Google Colab
+GitHub
